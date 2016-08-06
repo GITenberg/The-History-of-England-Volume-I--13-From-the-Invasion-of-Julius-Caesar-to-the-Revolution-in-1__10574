@@ -1,0 +1,34 @@
+_repo: The-History-of-England-Volume-I--13-From-the-Invasion-of-Julius-Caesar-to-the-Revolution-in-1__10574
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hume, David
+    birthdate: 1711
+    deathdate: 1776
+    gutenberg_agent_id: '1440'
+    url: http://www.gutenberg.org/2009/agents/1440
+    wikipedia: http://en.wikipedia.org/wiki/David_Hume
+description: David Hume was a Scottish philosopher, economist, and historian. He is
+  an important figure in Western philosophy, and in the history of the Scottish Enlightenment.Hume
+  first gained recognition and respect as a historian, but academic interest in Hume's
+  work has in recent years centered on his philosophical writing. His ""History of
+  England"" was the standard work on English history for many years, until Macaulay's
+  ""The History of England from the Accession of James the Second"".Hume was the first
+  philosopher of the modern era to produce a naturalistic philosophy. This philosophy
+  partly consis.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10574'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History'
+- GITenberg
+title: "The History of England, Volume I\r\nFrom the Invasion of Julius Caesar to\
+  \ the Revolution in 1688"
+url: http://www.gutenberg.org/ebooks/10574
