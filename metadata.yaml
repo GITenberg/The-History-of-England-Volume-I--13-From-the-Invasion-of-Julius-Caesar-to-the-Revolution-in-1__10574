@@ -1,5 +1,8 @@
 _repo: The-History-of-England-Volume-I--13-From-the-Invasion-of-Julius-Caesar-to-the-Revolution-in-1__10574
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hume, David
@@ -16,6 +19,8 @@ description: David Hume was a Scottish philosopher, economist, and historian. He
   ""The History of England from the Accession of James the Second"".Hume was the first
   philosopher of the modern era to produce a naturalistic philosophy. This philosophy
   partly consis.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10574#The-History-of-England-Volume-I--13-From-the-Invasion-of-Julius-Caesar-to-the-Revolution-in-1_
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
